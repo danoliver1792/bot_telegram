@@ -1,6 +1,6 @@
 import telebot
 
-CHAVE_API = '5708200268:AAFK-shzcgsOPijMb4QVvbWixXTKigykuqU'
+CHAVE_API = '#####' # Chave API gerada no Telegram
 
 bot = telebot.TeleBot(CHAVE_API)
 
